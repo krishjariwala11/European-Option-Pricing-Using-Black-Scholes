@@ -4,4 +4,4 @@ numpy
 streamlit
 scipy
 altair<5
-
+standard-imghdr
